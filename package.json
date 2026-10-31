@@ -1,1 +1,1 @@
-{"dependencies":{"@supabase/supabase-js":"^2.49.0","next":"^15.3.0","react":"^19.0.0","react-dom":"^19.0.0"},"name":"hot-village-app","private":true,"scripts":{"build":"next build","dev":"next dev","start":"next start"},"version":"0.1.0"}
+{"dependencies":{"@opennextjs/cloudflare":"^1.20.15","@supabase/supabase-js":"^2.49.0","next":"^15.3.0","react":"^19.0.0","react-dom":"^19.0.0"},"name":"hot-village-app","private":true,"scripts":{"build":"next build","dev":"next dev","start":"next start"},"version":"0.1.0"}
